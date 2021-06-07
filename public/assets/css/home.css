@@ -1,0 +1,24 @@
+.card{
+  background: rgb(220,5,44);
+background: radial-gradient(circle, rgba(220,5,44,1) 0%, rgba(0,0,0,1) 89%);
+  padding: 10px 10px;
+}
+
+.card-title{
+  color: #fff;
+}
+
+.card-text{
+  color: #fff;
+  font-size: 1.3rem;
+}
+
+.icon-1{
+  width: 70%;
+  padding: 20px 0;
+}
+
+.icon-2{
+  width: 70%;
+  padding: 20px 0;
+}
